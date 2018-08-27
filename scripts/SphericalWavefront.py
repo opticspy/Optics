@@ -7,8 +7,9 @@
     Demonstrates a spherical wavefront and the inverse quadratic dependency.
     Show in a graph whether or not the inverse square irradiance law holds.
 """
+
 import matplotlib
-matplotlib.use("TkAgg")
+#matplotlib.use("TkAgg")
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
 import sys
@@ -60,7 +61,7 @@ def TheExample(event):
     ax1.clear()
     ax1.contourf(I,50,cmap='hot'); ax1.axis('off'); ax1.axis('equal')
     ax1.set_title('Intensity distribution') 
-    canvas.show()
+    canvas.draw()
 
 def motion(event):
     x=event.xdata;y=event.ydata
