@@ -7,5 +7,5 @@ The following notebooks are available:
 2. [ReflectRefract.ipynb](./ReflectRefract.ipynb) **Internal reflection and refraction** is studied. A linear polarized laser beam enters a glass and is internally reflected and refracted. The polarization and the angle of incidence can be varied.
 3. [TwoHoles.ipynb](./TwoHoles.ipynb) **Young's experiment**. A plane monochromatic wave illuminates a screen with two small holes. The resulting interference pattern behind the screen can be studied.
 4. [NewtonRings.ipynb](./NewtonRings.ipynb) **Newton rings** can be observed when light falls on a convex lens laying on a flat glass plate. The effect of a transparent medium between them can be studied.
-5. [./FabryPerot.ipynb](./FabryPerot.ipynb) The **Fabry Perot** interferometer is studied in this assignment. By changing the distance between the mirrors the difference between two wavelengths can be determined.
-6. [./FresnelDiffraction.ipynb](./FresnelDiffraction.ipynb) **Fresnel diffraction** from a round hole is studied by measuring on-axis minimum- and maximum intensities as a function of the hole diameter and distance from the hole.
+5. [FabryPerot.ipynb](./FabryPerot.ipynb) The **Fabry Perot** interferometer is studied in this assignment. By changing the distance between the mirrors the difference between two wavelengths can be determined.
+6. [FresnelDiffraction.ipynb](./FresnelDiffraction.ipynb) **Fresnel diffraction** from a round hole is studied by measuring on-axis minimum- and maximum intensities as a function of the hole diameter and distance from the hole.
