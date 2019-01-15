@@ -1,4 +1,4 @@
-# Education
+# Optics
 Optics simulations using the LightPipes optical toolbox are written in Jupyter notebooks. Students can open the notebook, read some introduction about the topic and perform exercises. The simulations can be used as an introduction to real optical experiments in the lab.
 
 The following notebooks are available:
